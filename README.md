@@ -2,7 +2,7 @@
 
 **'Tenho experiencia em PHP, Phyton, Aprendendo Java'**
 
-Me chamo Marlon Cândido Marques, tenho 47 anos e sou natural do Goias. Atualmente, estou cursando Engenharia de Software pela Ampli, Anhanguera.
+Me chamo Marlon Cândido Marques, tenho 47 anos e sou natural de Goias. Atualmente, estou cursando Engenharia de Software pela Ampli, Anhanguera.
 
 <p align="left">
     <a href="https://github.com/marlonmarques?tab=repositories&sort=stargazers">
