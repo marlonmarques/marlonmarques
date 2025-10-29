@@ -1,170 +1,39 @@
-# Marlon Marques
+# 👋 Olá, eu sou Marlon Cândido Marques
 
-**'Tenho experiencia em PHP, Phyton, Aprendendo Java'**
+### **Engenheiro de Software | Fundador Técnico de SaaS | Especialista em FinTech & ERP**
 
-Me chamo Marlon Cândido Marques, tenho 47 anos e sou natural de Goias. Atualmente, estou cursando Engenharia de Software pela Ampli, Anhanguera.
+Sou o idealizador e desenvolvedor por trás de duas plataformas SaaS usadas por centenas de empresas:
+- **[Fácil Finance](https://www.facilfinance.com.br)** – Sistema financeiro inteligente com DRE, fluxo de caixa e integração contábil  
+- **[Capital ERP](https://capitalerp.com.br)** – ERP completo com emissão de NF-e, NFC-e, NFS-e, frente de caixa e ordens de serviço
 
-<p align="left">
-    <a href="https://github.com/marlonmarques?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/marlonmarques?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/marlonmarques?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/marlonmarques?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+Atualmente, estou **refatorando o Capital ERP para Spring Boot + Angular**, com foco em escalabilidade, testabilidade e arquitetura de microsserviços.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🔧 O que eu construo
+- ✅ **Arquitetura multi-tenant** (1 banco por cliente + banco central)
+- ✅ **Otimização extrema**: migrei de ~100% para **<5% de uso de CPU** com **Laravel Octane + RoadRunner**
+- ✅ **API de NFS-e com ACBr no Linux** – solução rara, funcional e containerizada com Docker
+- ✅ **Observabilidade leve** compatível com Octane (documentada publicamente)
+- ✅ **Infra própria**: VPS Debian 12, aaPanel, MariaDB 10.7, Redis, Nginx
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Spring Boot" 
-    title="Spring Boot"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
+---
 
-<br/>
-<br/>
+### 🛠️ Stack Técnica
+![PHP](https://img.shields.io/badge/PHP-8.2%2B-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-11-FF2D20?logo=laravel)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3-6DB33F?logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/Java-17-ED8B00?logo=java)
+![Docker](https://img.shields.io/badge/Docker-✓-2496ED?logo=docker)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-✓-4169E1?logo=postgresql)
+![MySQL/MariaDB](https://img.shields.io/badge/MariaDB-10.7-003545?logo=mariadb)
 
-### 📊 Estatísticas
+---
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=marlonmarques&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+### 📬 Vamos conversar?
+- 🌐 **[Portfólio Profissional](https://marlonmarques.github.io)**
+- 💼 **[LinkedIn](https://www.linkedin.com/in/marlon-marques-040942247)**
+- 📧 **marlonmarques6@gmail.com**
+- 💻 **[GitHub](https://github.com/marlonmarques)**
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonmarques&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+> 🔍 **Aberto a oportunidades** como **Desenvolvedor Backend Sênior (Java/PHP)** em FinTechs, SaaS ou startups de alto impacto.
