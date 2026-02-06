@@ -1,39 +1,38 @@
 # 👋 Olá, eu sou Marlon Cândido Marques
 
-### **Engenheiro de Software | Fundador Técnico de SaaS | Especialista em FinTech & ERP**
+Engenheiro de Software Sênior | Tech Lead | Arquiteto de Software
 
-Sou o idealizador e desenvolvedor por trás de duas plataformas SaaS usadas por centenas de empresas:
-- **[Fácil Finance](https://www.facilfinance.com.br)** – Sistema financeiro inteligente com DRE, fluxo de caixa e integração contábil  
-- **[Capital ERP](https://capitalerp.com.br)** – ERP completo com emissão de NF-e, NFC-e, NFS-e, frente de caixa e ordens de serviço
+Sou Engenheiro de Software com atuação prática em arquitetura, desenvolvimento e operação
+de sistemas críticos em produção, especialmente nos domínios financeiro, fiscal e ERP.
 
-Atualmente, estou **refatorando o Capital ERP para Spring Boot + Angular**, com foco em escalabilidade, testabilidade e arquitetura de microsserviços.
-
----
-
-### 🔧 O que eu construo
-- ✅ **Arquitetura multi-tenant** (1 banco por cliente + banco central)
-- ✅ **Otimização extrema**: migrei de ~100% para **<5% de uso de CPU** com **Laravel Octane + RoadRunner**
-- ✅ **API de NFS-e com ACBr no Linux** – solução rara, funcional e containerizada com Docker
-- ✅ **Observabilidade leve** compatível com Octane (documentada publicamente)
-- ✅ **Infra própria**: VPS Debian 12, aaPanel, MariaDB 10.7, Redis, Nginx
+Tenho mais de 5 anos de experiência liderando o ciclo completo de software (Full Cycle),
+desde a concepção arquitetural até deploy, observabilidade e escalabilidade em produção.
 
 ---
 
-### 🛠️ Stack Técnica
-![PHP](https://img.shields.io/badge/PHP-8.2%2B-777BB4?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-11-FF2D20?logo=laravel)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3-6DB33F?logo=spring&logoColor=white)
-![Java](https://img.shields.io/badge/Java-21-ED8B00?logo=java)
-![Docker](https://img.shields.io/badge/Docker-✓-2496ED?logo=docker)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-✓-4169E1?logo=postgresql)
-![MySQL/MariaDB](https://img.shields.io/badge/MariaDB-10.7-003545?logo=mariadb)
+## 🚀 O que eu entrego
+- Arquitetura de sistemas distribuídos e escaláveis
+- Migração e modernização de sistemas legados
+- Multi-tenancy real com PostgreSQL (Schema per Tenant)
+- Processamento assíncrono e event-driven
+- Infraestrutura containerizada com Docker e PaaS self-hosted (Coolify)
+- CI/CD e automação de deploy
 
 ---
 
-### 📬 Vamos conversar?
-- 🌐 **[Portfólio Profissional](https://marlonmarques.github.io)**
-- 💼 **[LinkedIn](https://www.linkedin.com/in/marlon-marques-040942247)**
-- 📧 **marlonmarques6@gmail.com**
-- 💻 **[GitHub](https://github.com/marlonmarques)**
+## 🏗️ Projetos em Produção
+- **Fácil Finance** → https://www.facilfinance.com.br  
+- **Capital ERP** → https://capitalerp.com.br  
 
-> 🔍 **Aberto a oportunidades** como **Desenvolvedor Backend Sênior (Java/PHP)** em FinTechs, SaaS ou startups de alto impacto.
+---
+
+## 🛠️ Stack Principal
+Java 21 • Spring Boot 3 • DDD • Clean Architecture • PostgreSQL • Redis • Docker • CI/CD • Angular • PHP • Laravel
+
+---
+
+🔗 Portfólio: https://marlonmarques.github.io  
+🔗 LinkedIn: https://www.linkedin.com/in/marlon-marques-040942247  
+🔗 GitHub: https://github.com/marlonmarques  
+
+> Aberto a oportunidades como **Engenheiro de Software Sênior / Tech Lead**
