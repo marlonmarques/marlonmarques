@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou Marlon Cândido Marques
+# Olá, eu sou Marlon Cândido Marques
 
-## 🚀 Software Engineer • Tech Lead • Arquitetura SaaS, FinTech & ERP
+## Software Engineer • Tech Lead • Arquitetura SaaS, FinTech & ERP
 
 Construo sistemas SaaS escaláveis com foco em **arquitetura, automação, integração com IA e operação em produção**.
 
